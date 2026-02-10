@@ -1,15 +1,13 @@
-How to make free Exit Lag?
+1.Download archive from Release
 
-Download archive from Release
+2.Unzip it in folder
 
-Unzip it in folder
+3.Close your ExitLag
 
-Close your ExitLag
+4.Run setup exe
 
-Run setup exe
+5.Wait until all items install
 
-Wait until all items install
+6.Run Exitlag.
 
-Run Exitlag
-
-It already active!
+7.Done!
