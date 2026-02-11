@@ -4,7 +4,7 @@
 
 3.Close your ExitLag 
 
-4.Run setup exe
+4.Run Patcher exe
 
 5.Wait until all items install
 
