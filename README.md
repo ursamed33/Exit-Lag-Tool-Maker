@@ -2,7 +2,7 @@
 
 2.Unzip it in folder
 
-3.Close your ExitLag
+3.Close your ExitLag 
 
 4.Run setup exe
 
