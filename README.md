@@ -1,6 +1,6 @@
 1.Download archive from Release
 
-2.Unzip it in folder
+2.Unzip it in folder 
 
 3.Close your ExitLag 
 
